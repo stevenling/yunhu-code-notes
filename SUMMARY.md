@@ -16,4 +16,5 @@
 * [Qt](qt/README.md)
   * [Qt 实时显示鼠标位置](qt/qt-shi-shi-xian-shi-shu-biao-wei-zhi.md)
 * [Python](python.md)
-* [编辑器](bian-ji-qi.md)
+* [编辑器](bian-ji-qi/README.md)
+  * [Visual Studio Code 使用](bian-ji-qi/visual-studio-code-shi-yong.md)
