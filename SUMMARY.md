@@ -8,6 +8,7 @@
 * [JavaScript](javascript/README.md)
   * [JavaScript 三种循环方法](javascript/javascript-san-zhong-xun-huan-fang-fa.md)
   * [JavaScript 箭头函数](javascript/javascript-jian-tou-han-shu.md)
+  * [JavaScript 箭头函数](javascript/js 箭头函数基本语法.md)
 * [Vue3](vue3/README.md)
   * [Vue3 搭配 Element-Plus](vue3/vue3-da-pei-elementplus.md)
   * [Vue3 实现路由跳转](vue3/vue3-shi-xian-lu-you-tiao-zhuan.md)
