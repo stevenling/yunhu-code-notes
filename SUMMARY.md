@@ -11,7 +11,6 @@
   * [JavaScript 高阶函数](javascript/JavaScript高阶函数.md)
   * [JavaScript 变量作用域](javascript/JavaScript变量作用域.md)
   * [JavaScript 操作 DOM](javascript/JavaScript操作DOM.md)
-
 * [Vue3](vue3/README.md)
   * [Vue3 搭配 Element-Plus](vue3/vue3-da-pei-elementplus.md)
   * [Vue3 实现路由跳转](vue3/vue3-shi-xian-lu-you-tiao-zhuan.md)
@@ -23,3 +22,5 @@
 * [Python](python.md)
 * [编辑器](bian-ji-qi/README.md)
   * [Visual Studio Code 使用](bian-ji-qi/visual-studio-code-shi-yong.md)
+* [其他](qi-ta/README.md)
+  * [网站和软件推荐](qi-ta/wang-zhan-he-ruan-jian-tui-jian.md)
