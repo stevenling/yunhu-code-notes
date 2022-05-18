@@ -10,7 +10,7 @@
   * [JavaScript 箭头函数](javascript/js箭头函数.md)
   * [JavaScript 高阶函数](javascript/JavaScript高阶函数.md)
   * [JavaScript 变量作用域](javascript/JavaScript变量作用域.md)
-  * [JavaScript 操作 DOM](javascript/JavaScript-操作-DOM.md)
+  * [JavaScript 操作 DOM](javascript/JavaScript操作DOM.md)
 
 * [Vue3](vue3/README.md)
   * [Vue3 搭配 Element-Plus](vue3/vue3-da-pei-elementplus.md)
