@@ -22,5 +22,9 @@
 * [Python](python.md)
 * [编辑器](bian-ji-qi/README.md)
   * [Visual Studio Code 使用](bian-ji-qi/visual-studio-code-shi-yong.md)
+<<<<<<< Updated upstream
 * [其他](qi-ta/README.md)
   * [网站和软件推荐](qi-ta/wang-zhan-he-ruan-jian-tui-jian.md)
+=======
+* [数据结构与算法](DataStructure.md)
+>>>>>>> Stashed changes
