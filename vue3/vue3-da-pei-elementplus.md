@@ -13,9 +13,9 @@ vue create project
 ### 二、安装 element-plus
 
 在项目路径底下使用以下命令进行 `element3` 的安装：
-
-> npm install element-plus --save
-
+```shell
+npm install element-plus --save
+```
 ### 三、引入 element-plus
 
 #### 3.1 main.js

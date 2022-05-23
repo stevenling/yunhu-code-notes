@@ -4,6 +4,7 @@
 ### 2.1 vue 代码
 `el-select` 通过 `v-model` 与 `downloadIndex` 绑定在一块。
 因此前端选择哪一项，`downloadIndex` 就是那一项的值。
+
 ```javascript
 /**
  * 点击下载按钮
